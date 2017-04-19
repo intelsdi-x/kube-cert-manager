@@ -35,9 +35,9 @@ See [Using secrets as environment variables](http://kubernetes.io/docs/user-guid
 
 ### DNSimple
 
-`DNSIMPLE_EMAIL`: The email fo the DNSimple user
+`DNSIMPLE_BASE_URL`: The domain managed by DNSimple
 
-`DNSIMPLE_API_KEY`: The API key corresponding to the email
+`DNSIMPLE_OAUTH_TOKEN`: The OAuth token for the DNSimple domain
 
 ### DNS Made Easy
 
